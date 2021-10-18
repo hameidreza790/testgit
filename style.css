@@ -1,11 +1,13 @@
 body {
-  background-color: red;
+  background-color: green;
   font-family: sans-serif;
 }
 
 h1 {
-  color: white;
+  color: blue;
   text-align: center;
   font-size: 8rem;
   margin-top: 20%;
+  text-transform: uppercase;
+  text-shadow: 2px 0 2px white;
 }
